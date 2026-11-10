@@ -33,16 +33,17 @@ Sou estudante de **Engenharia de Software** e estou construindo minha trajetóri
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 | Projeto | Descrição | Tecnologias / conceitos |
 |---|---|---|
-| [Auditoria e análise de vendas](./data-audit-algorithm/) | Análise de valores, média, limites de segurança e identificação de possíveis anomalias. | Python, condicionais, outliers |
-| [Sistema de triagem médica](./engenh-solu-logic/) | Classificação de atendimento a partir de sinais vitais. | Portugol, algoritmos, fluxogramas |
+| [Auditoria e análise de vendas](./data-audit-algorithm/) | Análise de valores, média, limites de segurança e possíveis anomalias. | Python, condicionais, outliers |
+| [Sistema de auditoria de vendas](./Projeto_sistema_de_auditoria/) | Simulação de auditoria com variáveis globais/locais e revisão de valores discrepantes. | Python, funções, escopo |
+| [Sistema de triagem médica](./engenh-solu-logic/) | Exercício de classificação de atendimento a partir de sinais vitais. | Portugol, algoritmos, fluxogramas |
 | [Engenharia de contexto e lógica física](./eng-contx-log-fis/) | Modelagem de microclima urbano e simulação de navegação/evacuação. | Python, listas, laços e condições |
-| [Modularização — sistema de troco](./projeto-modularizacao/) | Planejamento de solução dividida em funções e módulos independentes. | Pensamento computacional, pseudocódigo |
+| [Modularização — sistema de troco](./projeto-modularizacao/) | Planejamento de uma solução dividida em funções e módulos independentes. | Pensamento computacional, pseudocódigo |
 | [Desenhando emojis com dados](./desen-emoji/) | Exploração de caracteres e representação visual com estruturas de programação. | Python, Unicode, Jupyter Notebook |
 | [Auditoria de orçamentos corporativos](./sist-aud-recu-corpo/) | Processamento de estruturas hierárquicas, filtros e auditoria de execução. | Python, recursão, decorators |
-| [Traduzindo lógica para Python](./traduzir-logica-python/) | Exercícios de vendas, análise climática, notas e simulação de poupança. | Python, funções, condicionais e loops |
+| [Traduzindo lógica para Python](./traduzindo-logica-python/) | Exercícios práticos de lógica implementados em Python. | Python, funções, condicionais e loops |
 
 ## 📊 Atividade no GitHub
 <div align="center">
@@ -50,9 +51,7 @@ Sou estudante de **Engenharia de Software** e estou construindo minha trajetóri
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas0512&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens mais utilizadas">
 </div>
 
-## 📫 Vamos conversar?
-Estou aberta a conexões, troca de conhecimento e oportunidades para aprender e colaborar em projetos.
-
+## 📫 Contato
 - **LinkedIn:** [yasmin-matos](https://www.linkedin.com/in/yasmin-matos-2a3449359)
 - **E-mail:** [yasminmatosreis2006@gmail.com](mailto:yasminmatosreis2006@gmail.com)
 
