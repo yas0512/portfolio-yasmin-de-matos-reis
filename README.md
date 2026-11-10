@@ -1,99 +1,60 @@
-# Yasmin De Matos Reis
-> Estudante de Engenharia de Software
- 
+<div align="center">
+
+# Yasmin de Matos Reis
+### Estudante de Engenharia de Software | Desenvolvedora em formação
+
+<a href="https://www.linkedin.com/in/yasmin-matos-2a3449359"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:yasminmatosreis2006@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Bem-vindo(a)%20ao%20meu%20portfólio!&fontSize=26&fontColor=ffffff" alt="Banner do portfólio">
+</div>
+
+## 👩‍💻 Sobre mim
+Sou estudante de **Engenharia de Software** e estou construindo minha trajetória na tecnologia por meio de projetos acadêmicos e exercícios práticos. Tenho interesse em desenvolvimento de software, resolução de problemas e construção de soluções úteis.
+
+- 📚 Formação: Engenharia de Software — Universidade Cidade de São Paulo (UNICID).
+- 💡 Foco atual: lógica de programação, algoritmos e desenvolvimento com Python.
+- 🤝 Competências: trabalho em equipe, comunicação e pensamento crítico.
+- 🌱 Objetivo: aprender continuamente e transformar conhecimento em projetos práticos.
+
+## 🧰 Tecnologias e ferramentas
+**Linguagens e desenvolvimento**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**Design e produtividade**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+## 🚀 Projetos em destaque
+| Projeto | Descrição | Tecnologias / conceitos |
+|---|---|---|
+| [Auditoria e análise de vendas](./data-audit-algorithm/) | Análise de valores, média, limites de segurança e identificação de possíveis anomalias. | Python, condicionais, outliers |
+| [Sistema de triagem médica](./engenh-solu-logic/) | Classificação de atendimento a partir de sinais vitais. | Portugol, algoritmos, fluxogramas |
+| [Engenharia de contexto e lógica física](./eng-contx-log-fis/) | Modelagem de microclima urbano e simulação de navegação/evacuação. | Python, listas, laços e condições |
+| [Modularização — sistema de troco](./projeto-modularizacao/) | Planejamento de solução dividida em funções e módulos independentes. | Pensamento computacional, pseudocódigo |
+| [Desenhando emojis com dados](./desen-emoji/) | Exploração de caracteres e representação visual com estruturas de programação. | Python, Unicode, Jupyter Notebook |
+| [Auditoria de orçamentos corporativos](./sist-aud-recu-corpo/) | Processamento de estruturas hierárquicas, filtros e auditoria de execução. | Python, recursão, decorators |
+| [Traduzindo lógica para Python](./traduzir-logica-python/) | Exercícios de vendas, análise climática, notas e simulação de poupança. | Python, funções, condicionais e loops |
+
+## 📊 Atividade no GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yas0512&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Estatísticas do GitHub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas0512&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens mais utilizadas">
+</div>
+
+## 📫 Vamos conversar?
+Estou aberta a conexões, troca de conhecimento e oportunidades para aprender e colaborar em projetos.
+
+- **LinkedIn:** [yasmin-matos](https://www.linkedin.com/in/yasmin-matos-2a3449359)
+- **E-mail:** [yasminmatosreis2006@gmail.com](mailto:yasminmatosreis2006@gmail.com)
+
 ---
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-matos-2a3449359?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminmatosreis2006@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./cv/cv.pdf)
- 
----
- 
-### 👨‍💻 Sobre
-Atualmente cursando o 1º semestre de Engenharia De Software na Universidade da Cidade de São Paulo.
- 
-* **Habilidades Técnicas:** Python, C, C#, GML, Lua, HTML, CSS.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** TODO
- 
----
- 
-### 🛠 Minhas Ferramentas Favoritas
- 
-#### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#### Office
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-#### Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
----
- 
-### 📂 Portfólio de Projetos
- 
-#### Programação de Computadores
-| Projeto 1| Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./data-audit-algorithm/) |
-
-| Projeto 2| Descrição | Link |
-| :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Engenharia de Soluções Lógicas cria sistemas eficientes usando programação, algoritmos e raciocínio lógico para resolver problemas tecnológicos e automatizar processos.| [Ver Projeto](./engenh-solu-logic/) |
-
-| Projeto 3| Descrição | Link |
-| :--- | :--- | :---: |
-| **Modularizaçãos** | Modularização organiza sistemas em partes independentes chamadas módulos, facilitando manutenção, reutilização de código, testes e desenvolvimento eficiente de soluções lógicas. | [Ver Projeto](./mod-lac/) |
-
-| Projeto 4| Descrição | Link |
-| :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** | Traduzir lógica para Python é transformar ideias, regras e soluções em códigos organizados, usando comandos, funções e algoritmos para resolver problemas computacionais. | [Ver Projeto](./traduzir-logica-python/) |
- 
-| Projeto 5| Descrição | Link |
-| :--- | :--- | :---: |
-| **Engenharia de Contexto e Lógica Física** | Engenharia de Contexto e Lógica Física transforma situações reais em modelos lógicos para sistemas computacionais. | [Ver Projeto](./eng-contx-log-fis/) |
- 
-| Projeto 6| Descrição | Link |
-| :--- | :--- | :---: |
-| **Desenhando Emojis com Dados** | Desenhar emojis com dados em Python é criar imagens usando matrizes de pixels (RGB), manipulando listas e tuplas para formar padrões visuais que representam figuras. | [Ver Projeto](./desen-emoji/) |
-
-| Projeto 7| Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos monitora, controla e analisa recursos empresariais com eficiência e transparência. | [Ver Projeto](./sist-aud-recu-corpo/) |
-
-
-#### Engenharia de Prompt e aplicações em IA
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Projeto Teste** | Lorem Ipsum Dolor. | [Ver Projeto](./projeto-ia-churn/) |
-
-#### Prototipagem de Sistemas
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Projeto Teste** | Lorem Ipsum Dolor. | [Ver Projeto](./projeto-ia-churn/) |
- 
-#### Interface e jornada de Usuário
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Projeto Teste** | Lorem Ipsum Dolor. | [Ver Projeto](./projeto-ia-churn/) |
- 
----
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-  
+<div align="center"><sub>Obrigada pela visita! Este portfólio evolui junto com meus estudos e projetos. ✨</sub></div>
